@@ -6,7 +6,6 @@ p.super-lead{
   font-family: 'Titillium Web','Roboto',"Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
-body, li {
-  text-align: center;
+body, {
   background-color: bisque;
 }
