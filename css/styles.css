@@ -14,10 +14,10 @@ body {
   -webkit-animation: Background 25s ease infinite;
   -moz-animation: Background 25s ease infinite;
   animation: Background 25s ease infinite;
-  width: 100%;
-  height:100%;
+  width: 100vh;
+  height:100vh;
   position:cover;
-  overflow:hidden; 
+  overflow:hidden;
 }
 
 @-webkit-keyframes Background {
@@ -126,4 +126,19 @@ body {
     font-weight:900;
     font-size:17px;
     letter-spacing: 0.045em;
+}
+
+.btn svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.btn svg rect {
+  stroke: #EC0033;
+  stroke-width: 4;
+  stroke-dasharray: 353, 0;
+  stroke-dashoffset: 0;
+  -webkit-transition: all 600ms ease;
+  transition: all 600ms ease;
 }
