@@ -127,7 +127,22 @@ body {
   to { opacity:1; top: 70px; }
 }
 
-.btnContainer{
+.slidingVertical{
+	display: inline;
+  text-indent: 8px;
+  flood-color: white;
+}
+.slidingVertical span{
+	animation: topToBottom 12.5s linear infinite 0s;
+	-ms-animation: topToBottom 12.5s linear infinite 0s;
+	-webkit-animation: topToBottom 12.5s linear infinite 0s;
+	color: #00abe9;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+}
+
+/* .btnContainer{
   height:100%;
    position: absolute;
       top: 50%;
@@ -191,4 +206,4 @@ body {
 
   .enter{
     margin-top: 25%;
-  }
+  } */
