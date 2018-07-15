@@ -6,6 +6,33 @@ p.super-lead{
   font-family: 'Titillium Web','Roboto',"Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  font-family: 'Nunito';
+  width: 100%;
+  background-color: white;
+  opacity: 0.5;
+  height: 4em;
+  position: fixed;
+  cursor: pointer;
+}
+  .brand {
+    font-size: 1.3em;
+    padding-left: 1em;
+  }
+
+  .link {
+    display: flex;
+    list-style-type: none;
+    flex: 1 auto;
+    justify-content: flex-end;
+    margin: 0;
+    font-size: 1.3em;
+  }
+    li {
+      padding-right: 1em;
+}
 
 
 body {
