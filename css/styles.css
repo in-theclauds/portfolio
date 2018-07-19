@@ -6,14 +6,14 @@ p.super-lead{
   font-family: 'Titillium Web','Roboto',"Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
-.navbar-brand {
+/* .navbar-brand {
   padding: 0px;
 }
 .navbar-brand>img {
   height: 100%;
   padding: 15px;
   width: auto;
-}
+} */
 
 .theNav .navbar-brand {
   display: flex;
@@ -23,7 +23,7 @@ p.super-lead{
   padding: 7px 14px;
 }
 
-.navbar-alignit .navbar-header {
+/* .navbar-alignit .navbar-header {
   -webkit-transform-style: preserve-3d;
 -moz-transform-style: preserve-3d;
 transform-style: preserve-3d;
@@ -37,7 +37,7 @@ height: auto;
 transform: translate(0,-50%);
 margin-right: 15px;
 margin-left: 15px;
-}
+} */
 
 
 
