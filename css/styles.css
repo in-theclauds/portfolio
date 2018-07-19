@@ -6,7 +6,7 @@ p.super-lead{
   font-family: 'Titillium Web','Roboto',"Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
-.header {
+/* .header {
   display: flex;
   align-items: center;
   font-family: 'Nunito';
@@ -16,8 +16,8 @@ p.super-lead{
   height: 4em;
   position: fixed;
   cursor: pointer;
-}
-  .brand {
+} */
+  /* .brand {
       width: 50px;
       height: 50px;
       display: inline-block;
@@ -38,7 +38,7 @@ p.super-lead{
     font-size: 13px;
     /* font-size: 1.3em;
     padding-left: 1em; */
-  }
+  /* } */ 
 
   .link {
     display: flex;
