@@ -6,58 +6,8 @@ p.super-lead{
   font-family: 'Titillium Web','Roboto',"Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
-/* .navbar-brand {
-  padding: 0px;
-}
-.navbar-brand>img {
-  height: 100%;
-  padding: 15px;
-  width: auto;
-} */
-
-.theNav .navbar-brand {
-  display: flex;
-  align-items: center;
-}
-.theNav .navbar-brand>img {
-  padding: 7px 14px;
-}
-
-/* .navbar-alignit .navbar-header {
-  -webkit-transform-style: preserve-3d;
--moz-transform-style: preserve-3d;
-transform-style: preserve-3d;
-height: 50px;
-}
-.navbar-alignit .navbar-brand {
-top: 50%;
-display: block;
-position: relative;
-height: auto;
-transform: translate(0,-50%);
-margin-right: 15px;
-margin-left: 15px;
-} */
-
-
-
-
-
-.navbar-nav>li>.dropdown-menu {
-z-index: 9999;
-}
-
-
-  /* .link {
-    display: flex;
-    list-style-type: none;
-    flex: 1 auto;
-    justify-content: flex-end;
-    margin: 0;
-    font-size: 1.3em;
-  }
-    li {
-      padding-right: 1em;
+/* .theNav{
+  width: 200vh;
 } */
 
 
